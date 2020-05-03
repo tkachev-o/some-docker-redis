@@ -1,0 +1,5 @@
+.idea/
+db-data/dump.rdb
+
+# don't ignore keep file
+!db-data/.keep
